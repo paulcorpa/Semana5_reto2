@@ -5,6 +5,8 @@ var doble = 0;
 var triple = 0;
 
 
+
+
 for( var compra = 0; compra < num_hamburguesas; compra++){
     var tipo_hamburguesa = +prompt("Hamburguesa sencilla --> Marque 1 " + "\n" +"Hamburguesa doble --> Marque 2   "+ "\n" + "Hamburguesa triple --> Marque 3 ");
 
